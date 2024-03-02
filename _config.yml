@@ -28,7 +28,7 @@ url: "https://blitzdose.de"
 github:
   username: blitzdose # change to your github username
 
-#twitter:
+twitter:
   #username: twitter_username # change to your twitter username
 
 social:
@@ -43,7 +43,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-    - https://www.instagram.com/christian_zae/
+    # - https://www.instagram.com/christian_zae/
 
 google_site_verification: # fill in to your verification string
 
