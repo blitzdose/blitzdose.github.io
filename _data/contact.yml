@@ -3,12 +3,6 @@
 - type: github
   icon: "fab fa-github"
 
-<<<<<<< HEAD
-=======
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
-
->>>>>>> v7.4.1
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
@@ -29,18 +23,3 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
-<<<<<<< HEAD
-=======
-#
-# - type: bluesky
-#   icon: 'fa-brands fa-bluesky'
-#   url: ''                   # Fill with your Bluesky profile link
-#
-# - type: reddit
-#   icon: 'fa-brands fa-reddit'
-#   url: ''                   # Fill with your Reddit profile link
-#
-# - type: threads
-#   icon: 'fa-brands fa-threads'
-#   url: ''                   # Fill with your Threads profile link
->>>>>>> v7.4.1
