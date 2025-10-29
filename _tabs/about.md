@@ -4,7 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<<<<<<< HEAD
 # Hi, I’m Christian
 
 I take photos, do programming and I am interested in the World of Technology.
@@ -17,7 +16,3 @@ I also always had an interest in photography. On class trips, I always had a sma
 
 ### I have no idea.
 I’ve had the name for quite a while. Back in my school days, we made some way to big key chains for like improving our handwork and were supposed to write something on them. Just not our name. For some reason, I came up with the word “blitzdose”, which I used as a username for any platforms from then on. The advantage: This name is NEVER taken. In the meantime, I even designed my own little logo, which you can see in the upper left corner.
-=======
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
->>>>>>> v7.4.1
